@@ -2,7 +2,7 @@
 
 I am [Jithin](https://jithin-zachariah.github.io/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 
 
-![Jithin's github stats](https://github-readme-stats.vercel.app/api?username=jithin-zachariah&hide=issues&show_icons=true&theme=onedark)
+![Jithin's github stats](https://github-readme-stats.vercel.app/api?username=jithin03&hide=issues&show_icons=true&theme=onedark)
 
 I mostly do backend development based on Microservices/Monolithic architecture using Javascript technologies like ExpressJS coupled with SQL/NoSQL databases like SQL Server, MongoDB etc. Experience in Azure/AWS cloud deployment, containerization using Docker, and orchestration using Kubernetes. Experience in CI/CD using tools like Azure DevOps, Jenkins.
 
