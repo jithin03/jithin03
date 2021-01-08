@@ -8,7 +8,8 @@ I mostly do backend development based on Microservices/Monolithic architecture u
 
 Blockchain evangelist with experience in DAPP development in Ethereum and enterprise blockchain application development based on Hyperledger Fabric. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin03&layout=compact)](https://github.com/jithin03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin03)](https://github.com/jithin03/github-readme-stats)
+
 
 
 ### 📫 How to reach me? 
