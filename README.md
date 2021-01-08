@@ -11,7 +11,6 @@ Blockchain evangelist with experience in DAPP development in Ethereum and enterp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithin03)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://jithin-zachariah.github.io/) 🌐 <br>
