@@ -14,4 +14,4 @@ Blockchain evangelist with experience in DAPP development in Ethereum and enterp
   ⦿ Visit my [Website](https://jithin-zachariah.github.io/) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/jithinzachariah/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/Jithin_Zac) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:jithin.zachariah96@gmail.com) 💌 <br>
+  ⦿ Shoot Me an [Email](mailto:jithin.zachariah@gds.ey.com) 💌 <br>
